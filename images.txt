@@ -6,3 +6,4 @@
 
 
 circleci/jdk8
+arm64v8/centos:7
